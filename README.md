@@ -1,2 +1,2 @@
 # MA-564-Advanced-Python-Projects
-Creating a rudimentary student information system (SIS) for the Lawrenceville School. 
+Creating a rudimentary student information system (SIS) for the Lawrenceville School. UI that allows user to interact with various methods within Student class and School class. For instance, the user can add students to the school, obtain student emails, obtain current year and term of school, input courses and grades, delete courses, calculate GPAs, change information regarding the student's name or address, and obtain information regarding the student's community service graduation requirement status. 
